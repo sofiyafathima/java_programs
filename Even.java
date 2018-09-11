@@ -4,16 +4,7 @@ import java.util.*;
 import java.io.*;
 import java.lang.*;
 
-
-/**
- *
- * @author MSAJCE-CSE31
- */
 public class Even {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
      Scanner s = new Scanner(System.in);
     int num = s.nextInt();
