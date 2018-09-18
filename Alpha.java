@@ -18,15 +18,11 @@ public class Alpha {
        System.out.println("Enter your alphabet");
        ch = s.next().charAt(0);
        
-       if(ch>='a' && ch<='z')
+       if(ch>='a' && ch<='z') || (ch>='A' && ch<='Z'))
            {
        System.out.println(ch+"is a alphabet");
        }
-      else if(ch>='A' && ch<='Z')
-       {
-           System.out.println(ch+"is a alphabet");
-       }
-       else
+    else
        {
            System.out.println(ch+"is not a alphabet");
        }
