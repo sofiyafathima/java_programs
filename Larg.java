@@ -1,21 +1,12 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package larg;
 import java.util.*;
 import java.io.*;
 import java.lang.*;
 
-/**
- *
- * @author MSAJCE-CSE31
- */
+
 public class Larg {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         int num1=20,num2=40,num3=50;
        Scanner s = new Scanner(System.in);
