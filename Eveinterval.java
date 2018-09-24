@@ -8,8 +8,8 @@ public class Eveinterval {
         int n  ,i,t;
       Scanner s = new Scanner(System.in);
        n = s.nextInt();
-       t=s.nextInt();
-  for(i=t;i<=n;i++)
+       t = s.nextInt();
+  for(i=n;i<=t;i++)
       {
       if(i%2==0)
       {
