@@ -6,7 +6,7 @@ import java.lang.*;
 public class Main {
    
     public static void main(String[] args) {
-        int num=1222,i;
+        int num=11,i;
         boolean flag = false;
        
         for(i=2; i<=num/2;i++)
