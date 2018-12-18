@@ -7,7 +7,7 @@ import java.lang.*;
  *
  * @author MSAJCE
  */
-public class PrimeJava {
+ class PrimeJava {
 
     /**
      * @param args the command line arguments
